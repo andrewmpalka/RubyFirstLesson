@@ -1,5 +1,4 @@
-load 'playground.rb'
-
+load 'arrayTutorial.rb'
 
 def checker(anything)
     anything = anything.to_i
